@@ -44,4 +44,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.ЛБТ_ОсновнаяРоль</roles>
+  <constants>Constant.Организация</constants>
 </mdclass:Configuration>
