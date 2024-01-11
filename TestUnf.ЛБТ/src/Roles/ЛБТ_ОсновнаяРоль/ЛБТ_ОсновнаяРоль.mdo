@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ff41961a-fb56-49d8-b758-f61d77669a41">
+  <name>ЛБТ_ОсновнаяРоль</name>
+  <synonym>
+    <key>ru</key>
+    <value>Основная роль</value>
+  </synonym>
+</mdclass:Role>
